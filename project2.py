@@ -1,4 +1,5 @@
 # project2_gui.py
+# Random Number Guessing Game
 
 import tkinter as tk
 from tkinter import messagebox
